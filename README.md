@@ -19,5 +19,12 @@ Links and such for Managing Macs for Noobs
 [Profile Creator](https://github.com/ProfileCreator/ProfileCreator)
 
 # Level 200
+[System and kernel extensions in macOS](https://support.apple.com/en-ca/guide/deployment/depa5fb8376f/1/web/1.0)
+
+[XProCheck, T2M2, Ulbow, Consolation and log utilities](https://eclecticlight.co/consolation-t2m2-and-log-utilities/)
+
+[macOS Terminal and Shell by Armin Briegel](https://scriptingosx.com/macos-terminal-and-shell/)
+
+[macOS defaults list](https://macos-defaults.com/)
 
 # Level 300
