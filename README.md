@@ -2,6 +2,8 @@
 Links and such for Managing Macs for Noobs
 
 # Level 100
+[Infinite Mac](https://infinitemac.org)
+
 [AppleSeed For IT](http://beta.apple.com/it)
 
 [Rebecca Latimer and Adam Anklewicz at PSU 2023: Beta Buddies - Testing With Friends](https://www.youtube.com/watch?v=CnBjyzkW7UM&t=1493s&pp=ygUXbWFjIGFkbWlucyBiZXRhIGJ1ZGRpZXM=)
