@@ -1,0 +1,5 @@
+Pair off
+
+Put one of your two computers into DFU
+
+Hint: Use an Apple original USB C cable
