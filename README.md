@@ -33,6 +33,8 @@ Links and such for Managing Macs for Noobs
 
 [XProCheck, T2M2, Ulbow, Consolation and log utilities](https://eclecticlight.co/consolation-t2m2-and-log-utilities/)
 
+[FS Monitor](https://fsmonitor.com/)
+
 [macOS Terminal and Shell by Armin Briegel](https://scriptingosx.com/macos-terminal-and-shell/)
 
 [macOS defaults list](https://macos-defaults.com/)
