@@ -1,0 +1,8 @@
+Turn on Caching Server
+
+Turn off Caching Server
+
+Find a certain type of log (hopefully in the next two days Adam, Damien and Robert will specify)
+
+Offboarding Plan
+What happens if an employee is let go? What needs to happen? How can you automate it? What tools do you have to do this job? Think about what you need to do and come up with a way to do it.
