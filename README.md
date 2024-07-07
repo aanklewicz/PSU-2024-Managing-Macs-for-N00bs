@@ -109,7 +109,10 @@ Links and such for Managing Macs for Noobs
 
 [SOFA](http://sofa.macadmins.io)
 
+# Tools We Use Playtime links
 [Install Swift Dialog](https://github.com/swiftDialog/swiftDialog/releases/tag/v2.5.0)
+
+[Swift Dialog wiki, trust me you'll need this link](https://github.com/swiftDialog/swiftDialog/wiki)
 
 # OH NO, I BROKE IT!
 [Mac Admins Slack](https://www.macadmins.org/)
