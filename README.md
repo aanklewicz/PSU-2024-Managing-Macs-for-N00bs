@@ -150,6 +150,9 @@ Links and such for Managing Macs for Noobs
 
 [Objective See](https://objective-see.org/)
 
+# Resources
+[Apple Device Management by Charles Edge and Rich Trouton](https://www.amazon.com/Apple-Device-Management-Unified-Managing/dp/1484291557)
+
 
 # Other Sessions
 [How The Personal Computer Peaked in 1984](https://psumac2024.sched.com/event/1dFps/how-the-personal-computer-peaked-in-1984)
