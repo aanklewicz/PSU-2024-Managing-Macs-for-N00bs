@@ -1,5 +1,5 @@
 # Slides
-[PDF](https://drive.google.com/file/d/1KPx9o4e6KEQ-dgq0Ikqy9za_ZfGhEarD/view?usp=sharing)
+[PDF](https://drive.google.com/file/d/1KPx9o4e6KEQ-dgq0Ikqy9za_ZfGhEarD/view?usp=sharing) | [Zipped Keynote File](https://drive.google.com/file/d/1G7yxyqE4Fe2nG7o6wYKJ28yqAFuzgJfL/view?usp=sharing)
 
 # PSU 2024: Managing Macs for N00bs
 Links and such for Managing Macs for Noobs
