@@ -43,7 +43,7 @@ Links and such for Managing Macs for Noobs
 [macOS defaults list](https://macos-defaults.com/)
 
 # Level 300
-[macOS Security Compliance Project](https://github.com/usnistgov/macos_security#readme)
+[macOS Security Compliance Project]((https://github.com/usnistgov/macos_security/blob/main/README.adoc)
 
 # Tools We Use
 [Swift Dialog](https://github.com/swiftDialog/swiftDialog)
